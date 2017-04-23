@@ -1,4 +1,4 @@
-<H1>Crud Mongo Rest Mongoose Express Express-Generator Jade</H2>
+<H1>CRUD Mongo DB RESTFul Mongoose Express Express-Generator Jade</H2>
 
 <H3>Based on Kendrick Coleman Tutorial</h3>
 
@@ -8,7 +8,7 @@
 
 <h3>Bugs</h3>
 <ol>
-<li>Minor on Input bug when no mandatory fields</li>
+<li>Minor on field input (Null problem)</li>
 </ol>
 
 <h3>What example does</h3>
@@ -23,8 +23,9 @@
 <li>No jade implementations with “header” “footer”</li>
 </ol>
 
-
-
-Thanks,
-
-José Valerio
+<h3>Things that you can do</h3>
+<ol>
+<li>Validate fields.</li>
+<li>Add a new table to this application.</li>
+<li>Learn Boostrap and Jade</li>
+</ol>
