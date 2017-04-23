@@ -28,4 +28,6 @@
 <li>Validate fields.</li>
 <li>Add a new table to this application.</li>
 <li>Learn Boostrap and Jade</li>
+<li>Eliminate /users from application</li>
+<li>Make / default path for /blobs</li>
 </ol>
